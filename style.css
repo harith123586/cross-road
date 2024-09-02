@@ -46,7 +46,7 @@ button {
     grid-row-gap: 10px;
     margin-bottom: 20px;
   }
-  controlls button { 
+  #controlls button { 
     width: 100%;
     background-color: white;
     border: 1px solid lightgray;
